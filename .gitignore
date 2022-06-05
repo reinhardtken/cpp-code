@@ -1,0 +1,7 @@
+* ASCII text
+# Default ignored files
+cmake-build-debug
+/.DS_Store
+/.idea
+/basic/.idea
+/basic/.DS_Store
