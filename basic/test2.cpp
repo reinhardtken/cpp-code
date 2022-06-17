@@ -32,7 +32,7 @@ struct X2 {
     int c;
 };
 
-int Test2() {
+void Test2() {
     {
         std::cout << "A:" << sizeof(A) << std::endl;
         std::cout << "B:" << sizeof(B) << std::endl;

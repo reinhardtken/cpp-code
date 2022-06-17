@@ -2,10 +2,19 @@
 
 
 
-extern int Test1();
-extern int Test2();
-extern int Test3();
-extern int Test4();
+extern void Test1();
+extern void Test2();
+extern void Test3();
+extern void Test4();
+extern void Test5();
+extern void Test6();
+extern void Test7();
+extern void Test8();
+extern void Test9();
+extern void TestA();
+extern void TestA2();
+extern void TestA3();
+extern void Test12();
 extern int ModernCppTest1(int argc, char *argv[]);
 extern void ModernCppTest24();
 extern void ModernCppTest41();
@@ -40,7 +49,16 @@ int main() {
 //    Test1();
 //    Test2();
 //    Test3();
-    Test4();
+//    Test4();
+    //Test5();
+    //Test6();
+    //Test7();
+    //Test8();
+    //Test9();
+  //TestA();
+  //TestA2();
+  TestA3();
+  //Test12();
 //    ModernCppTest1(0, nullptr);
 //    ModernCppTest24();
 //    ModernCppTest41();

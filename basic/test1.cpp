@@ -51,7 +51,7 @@ public:
     int b;
 };
 
-int Test1() {
+void Test1() {
     B *b = new B();
     A *p = b;
     std::cout<<"a: "<<b->a<<std::endl;
