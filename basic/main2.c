@@ -1,5 +1,5 @@
-#include <iostream>
-
+//#include <iostream>
+//#include "studio.h"
 
 
 extern void Test1();
@@ -48,8 +48,8 @@ extern void ModernCppTest313();
 extern void ModernCppTest341();
 extern void ModernCppTest342();
 
-int main2() {
-    Test1();
+int main() {
+//print("hello world");
 //    Test2();
 //    Test3();
 //    Test4();

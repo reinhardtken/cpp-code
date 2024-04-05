@@ -56,7 +56,6 @@ void Test1() {
     A *p = b;
     std::cout<<"a: "<<b->a<<std::endl;
     std::cout<<"b: "<<b->b<<std::endl;
-
     std::cout<<"A: "<<sizeof(A)<<std::endl;
     std::cout<<"B: "<<sizeof(B)<<std::endl;
     delete p;
